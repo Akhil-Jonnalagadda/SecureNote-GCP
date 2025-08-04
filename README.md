@@ -103,7 +103,7 @@ SecureNote/
 ---
 
 ## 📣 Final Note
-
+-------------------------------------------------------
 SecureNote was not just built to showcase a **MERN app**, but to demonstrate how privacy, encryption, and modern web development can be integrated to create secure, real-world-ready software. Its modular design and scalability make it fit for future enhancements and cloud-based deployments.
 
 ---
