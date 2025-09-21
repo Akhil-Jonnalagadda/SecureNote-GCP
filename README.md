@@ -3,7 +3,7 @@
 SecureNote is a production-ready web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that enables secure, anonymous, and self-destructing note sharing. It provides features like end-to-end encryption, password protection, read-tracking, and auto-expiring links, making it ideal for privacy-focused users such as journalists, lawyers, or internal teams sharing sensitive data.
 
 ## 🚀 Key Features
-- **🔒 End-to-End Encryption**  
+- ** End-to-End Encryption**  
   Notes are encrypted on the client side and can only be decrypted with a valid key, ensuring complete confidentiality.
 
 - **🕒 Self-Destructing Notes**  
